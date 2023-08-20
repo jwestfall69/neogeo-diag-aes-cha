@@ -75,7 +75,7 @@
     )
   )
 
-  (property "REV" "2023-07-30")
+  (property "REV" "2023-08-20")
 
   (net 0 "")
   (net 1 "VCC")
@@ -8660,7 +8660,7 @@
   (via (at 226.06 35.56) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp ac454237-c9c1-497d-bf8c-b5015e2657e9))
   (via (at 226.06 55.88) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp ae1d1894-e4f1-4345-a23a-799b44c50f7a))
   (via (at 175.26 129.54) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp b3995407-1f98-4ab2-b826-3ba9f65a9808))
-  (via (at 77.2668 94.996) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp c379a801-5720-4198-b045-352558b3ea27))
+  (via (at 77.3176 95.5294) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp c379a801-5720-4198-b045-352558b3ea27))
   (via (at 206.375 109.728) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp c587be58-7bb2-433f-80bf-3349433bc11a))
   (via (at 154.94 74.93) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp c9f00bb2-2e24-4ba2-b6ff-d2de1e1b4c75))
   (via (at 175.26 35.56) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp ca0a0574-1479-41a0-9835-60a4a5befc98))

@@ -75,7 +75,7 @@
     )
   )
 
-  (property "REV" "2023-07-30")
+  (property "REV" "2023-08-20")
 
   (net 0 "")
   (net 1 "VCC")

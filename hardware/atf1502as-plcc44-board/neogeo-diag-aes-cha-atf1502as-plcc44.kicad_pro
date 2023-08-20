@@ -394,7 +394,7 @@
     ]
   },
   "meta": {
-    "filename": "neogeo-diag-aes-cha.kicad_pro",
+    "filename": "neogeo-diag-aes-cha-atf1502as-plcc44.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -502,6 +502,6 @@
     ]
   ],
   "text_variables": {
-    "REV": "2023-07-30"
+    "REV": "2023-08-20"
   }
 }
